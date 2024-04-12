@@ -6,5 +6,5 @@ def tabla(numero):
     for contador in range(1,11):
         print(f"{numero} X {contador} = {numero*contador}")
 
-def 
+#se me olvido que mas iba XD
 
